@@ -1,0 +1,6 @@
+pandas
+numpy
+easticsearch
+jupyter
+geopandas
+xlrd
